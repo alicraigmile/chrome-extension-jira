@@ -1,0 +1,20 @@
+{
+"name": "Jira",
+"description": "Bug tracking, issue tracking and project management software powered by Atlassian JIRA",
+"version": "1.0",
+"icons": {
+"128": "jira128.png"
+},
+"app": {
+"urls": [
+"https://jira.dev.bbc.co.uk/"
+],
+"launch": {
+"web_url": "https://jira.dev.bbc.co.uk/"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
